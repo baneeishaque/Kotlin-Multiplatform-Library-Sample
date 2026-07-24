@@ -19,7 +19,7 @@ jobs:
           java-version: 21
 
       - name: Install Android SDK
-        uses: android-actions/setup-android@v3
+        uses: android-actions/setup-android@v4
 
       - name: Set up Chrome
         uses: browser-actions/setup-chrome@v1
