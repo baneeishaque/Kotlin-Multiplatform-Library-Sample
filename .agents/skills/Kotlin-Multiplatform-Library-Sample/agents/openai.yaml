@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kotlin Multiplatform Library Sample"
+  short_description: "Repo-specific patterns and workflows for Kotlin-Multiplatform-Library-Sample"
+  default_prompt: "Use the Kotlin-Multiplatform-Library-Sample repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
